@@ -33,10 +33,6 @@ git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use the code for personal or commercial purposes.
-
 ## Acknowledgements
 
 - The design and inspiration for this project come from the official Netflix website.
